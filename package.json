@@ -1,0 +1,19 @@
+{
+  "name": "rpg",
+  "version": "0.0.1",
+  "description": "projeto de RPG visando a diversao\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dsimulação de RPG de mesa visando a diversão",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGUPCODE/rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RPGUPCODE/rpg/issues"
+  },
+  "homepage": "https://github.com/RPGUPCODE/rpg#readme"
+}
