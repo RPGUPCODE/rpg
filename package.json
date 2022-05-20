@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RPGUPCODE/rpg/issues"
   },
-  "homepage": "https://github.com/RPGUPCODE/rpg#readme"
+  "homepage": "https://github.com/RPGUPCODE/rpg#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
 }
