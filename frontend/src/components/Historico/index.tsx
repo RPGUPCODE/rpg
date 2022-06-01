@@ -1,8 +1,8 @@
-import "./style.sass"
+import Aside from "./style";
 
 function Historico() {
   return (
-    <aside id="asideHistorico">
+    <Aside id="asideHistorico">
       <h2>Histórico</h2>
       <ul>
         <li className="historicoInicioJogo">Início do jogo</li>
@@ -18,7 +18,7 @@ function Historico() {
         <li>Morréeeu. 💀</li>
         <li className="historicoFimJogo">FIM DO JOGO.</li>
       </ul>
-    </aside>
+    </Aside>
   );
 }
 

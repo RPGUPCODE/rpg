@@ -1,8 +1,8 @@
-import "./style.sass"
+import HeaderStyle from "./style";
 
 function Header() {
   return (
-    <header>
+    <HeaderStyle>
       <h2>RPG de Mesa</h2>
       <ul>
         <li>
@@ -27,7 +27,7 @@ function Header() {
           </nobr>
         </li>
       </ul>
-    </header>
+    </HeaderStyle>
   );
 }
 

@@ -1,5 +1,4 @@
 import "./style.css";
-import "./style.sass";
 
 function Dados() {
   function rollDice() {

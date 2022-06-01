@@ -1,8 +1,8 @@
-import "./style.sass";
+import Aside from './style';
 
 function Jogadores() {
   return (
-    <aside id="asideJogadores">
+    <Aside id="asideJogadores">
       <h2>Jogadores</h2>
       <ul>
         <li>
@@ -32,7 +32,7 @@ function Jogadores() {
           </details>
         </li>
       </ul>
-    </aside>
+    </Aside>
   );
 }
 

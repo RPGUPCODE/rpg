@@ -1,4 +1,3 @@
-import "./App.sass";
 import Dados from "./components/Dados";
 import Footer from "./components/Footer";
 import Jogadores from "./components/Jogadores";
